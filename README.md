@@ -2,9 +2,11 @@
 
 A sleek, neon-themed personal portfolio showcasing AI development projects, skills, and achievements.
 
-## Live Site
+[![Live Site](https://img.shields.io/badge/Live%20Site-Visit%20Portfolio-ff6b9d?style=for-the-badge&logo=vercel&logoColor=white)](https://midhat-nayab-portfolio.vercel.app)
 
-Deployed on Vercel: [midhat-nayab-portfolio.vercel.app](https://midhat-nayab-portfolio.vercel.app)
+## Preview
+
+![Portfolio Screenshot](midhat-portfolio-live.png)
 
 ## Features
 
@@ -13,23 +15,42 @@ Deployed on Vercel: [midhat-nayab-portfolio.vercel.app](https://midhat-nayab-por
 - Custom animated cursor (dot + ring)
 - Smooth scroll with section-based layout
 - Fully responsive design for all devices
-- 7 sections: Hero, About, Skills, Projects, Experience, Education, Contact
+- Animated typing effect on hero section
+- Skill progress bars with animations
+- Interactive project cards
+- Contact form with social links
+- 7 sections: Hero, About, Skills, Experience, Education, Projects, Contact
 
 ## Tech Stack
 
-- **Single-file build** — HTML, CSS, and JavaScript in one `index.html`
-- **Google Fonts** — Poppins (body) + Fira Code (code accents)
-- **FontAwesome 6.5** — icons throughout
-- **Hosting** — Vercel (auto-deploy from GitHub)
+| Technology | Usage |
+|------------|-------|
+| HTML / CSS / JS | Single-file build in `index.html` |
+| Google Fonts | Poppins (body) + Fira Code (code accents) |
+| FontAwesome 6.5 | Icons throughout |
+| Vercel | Hosting & auto-deploy from GitHub |
 
 ## Project Structure
 
 ```
 midhat-portfolio/
-├── index.html      # Full site (HTML + CSS + JS)
-└── .vercel/        # Vercel deployment config
+├── index.html                # Full site (HTML + CSS + JS)
+├── midhat-portfolio-live.png # Preview screenshot
+└── README.md                 # This file
+```
+
+## Getting Started
+
+Just open `index.html` in your browser — no build tools needed.
+
+```bash
+git clone https://github.com/midhatnayab7-creator/midhat-portfolio.git
+cd midhat-portfolio
+open index.html
 ```
 
 ## Author
 
 **Midhat Nayab** — AI Developer & Student Innovator
+
+[![Email](https://img.shields.io/badge/Email-midhatnayab7%40gmail.com-00d4ff?style=flat-square&logo=gmail&logoColor=white)](mailto:midhatnayab7@gmail.com)
