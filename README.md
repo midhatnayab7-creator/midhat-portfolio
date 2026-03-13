@@ -4,9 +4,9 @@ A sleek, neon-themed personal portfolio showcasing AI development projects, skil
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-Visit%20Portfolio-ff6b9d?style=for-the-badge&logo=vercel&logoColor=white)](https://midhat-nayab-portfolio.vercel.app)
 
-## Preview
+## Live Site
 
-![Portfolio Screenshot](midhat-portfolio-live.png)
+https://midhat-nayab-portfolio.vercel.app
 
 ## Features
 
@@ -35,7 +35,6 @@ A sleek, neon-themed personal portfolio showcasing AI development projects, skil
 ```
 midhat-portfolio/
 ├── index.html                # Full site (HTML + CSS + JS)
-├── midhat-portfolio-live.png # Preview screenshot
 └── README.md                 # This file
 ```
 
@@ -52,5 +51,3 @@ open index.html
 ## Author
 
 **Midhat Nayab** — AI Developer & Student Innovator
-
-[![Email](https://img.shields.io/badge/Email-midhatnayab7%40gmail.com-00d4ff?style=flat-square&logo=gmail&logoColor=white)](mailto:midhatnayab7@gmail.com)
