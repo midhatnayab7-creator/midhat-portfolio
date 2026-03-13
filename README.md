@@ -4,7 +4,7 @@ A sleek, neon-themed personal portfolio showcasing AI development projects, skil
 
 ## Live Site
 
-Deployed on Vercel: [midhat-portfolio.vercel.app](https://midhat-portfolio.vercel.app)
+Deployed on Vercel: [midhat-nayab-portfolio.vercel.app](https://midhat-nayab-portfolio.vercel.app)
 
 ## Features
 
