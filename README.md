@@ -30,24 +30,8 @@ https://midhat-nayab-portfolio.vercel.app
 | FontAwesome 6.5 | Icons throughout |
 | Vercel | Hosting & auto-deploy from GitHub |
 
-## Project Structure
-
-```
-midhat-portfolio/
-├── index.html                # Full site (HTML + CSS + JS)
-└── README.md                 # This file
-```
-
-## Getting Started
-
-Just open `index.html` in your browser — no build tools needed.
-
-```bash
-git clone https://github.com/midhatnayab7-creator/midhat-portfolio.git
-cd midhat-portfolio
-open index.html
-```
-
 ## Author
 
 **Midhat Nayab** — AI Developer & Student Innovator
+
+[GitHub](https://github.com/midhatnayab7-creator) | [LinkedIn](https://www.linkedin.com/in/midhat-nayab-25a6603a3) | [Email](mailto:midhatnayab7@gmail.com)
